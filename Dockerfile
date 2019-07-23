@@ -1,2 +1,2 @@
-FROM parity/parity:v2.4.9-stable
+FROM parity/parity:v2.5.5-stable
 RUN mkdir -p /home/parity/.local/share/io.parity.ethereum/
